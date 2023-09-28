@@ -1,0 +1,37 @@
+# 编译生成的文件
+bin/
+obj/
+
+# NuGet包目录
+packages/
+
+# Visual Studio的一些文件
+.vs/
+*.suo
+*.user
+*.ncb
+*.aps
+*.resharper
+_ReSharper.*
+*.[Rr]esharper*
+*.DotSettings.user
+
+# 测试结果
+[Tt]est[Rr]esult*
+
+# 临时文件
+*.tmp
+*.log
+*.bak
+
+# 工程文件生成的文件
+*.csproj.user
+*.vcxproj.user
+*.sln.docstates
+
+# .NET Core工程文件生成的文件
+*.nuget.props
+*.nuget.targets
+
+# 自定义文件夹
+CustomFolder/
